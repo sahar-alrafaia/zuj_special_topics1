@@ -1,5 +1,5 @@
 # Topices_In_CS1
----
+
 ## Introduction
 
 Hello! My name is Sahar Al-Rafayeh. I am a Computer Science student who is passionate about technology, programming, and learning new skills. I am always interested in improving my knowledge and developing creative solutions to real-world problems.
